@@ -175,7 +175,7 @@ async function collectCgun() {
   collectCgunBtn.textContent = "GRATS! Come back tomorrow!";
   moneySound.play();
   setTimeout(() => {
-      window.location.href = "https://codepen.io/Zehn1984/pen/BaqRxRK";
+      window.location.href = "https://humbie.vercel.app/";
   }, 1000);
 }
 scoreElement.innerHTML = "score:";
